@@ -1,5 +1,5 @@
-Project2
-========
+two-player adversarial game
+================================
 At the heart of a two-player adversarial game is the Minimax Algorithm. It tells us what the current (max) player’s best move is. Additionally, the alpha-beta pruning modification makes the overall algorithm more efficient.
 
 manual solution
